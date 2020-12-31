@@ -1,0 +1,126 @@
+.top{
+  background-color: #EAF6F6;
+  padding-top: 100px;
+  padding-bottom: 25px;
+  position: relative;
+}
+
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  line-height: 1.6;
+}
+
+h1{
+  margin: 50px auto 0;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  color: #66BFBF;
+}
+
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+}
+
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+hr{
+  border-style: dotted;
+  border-bottom-style: none;
+  border-width: 10px;;
+  border-color: #EAF6F6;
+  width: 5%;
+  margin: 50px auto;
+}
+
+.footer-link{
+  color: #11999E;
+}
+
+.underline{
+  text-decoration: underline;
+  font-size: 1.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+.cloud2{
+  position: absolute;
+  top: 50px;
+  right: 400px;
+}
+
+.cloud1{
+  position: absolute;
+  left: 400px;
+  bottom: 300px;
+}
+
+.middle{
+  width: 50%;
+  margin: 100px auto;
+}
+
+.graduate{
+  height: 200px;
+  width: 200px;
+  float: left;
+  margin-right: 20px;
+}
+
+.education{
+  margin: 0 auto;
+}
+
+.skills{
+  margin: 0 auto;
+}
+
+.error{
+  height: 200px;
+  width: 200px;
+
+}
+
+.game{
+  height: 200px;
+  width: 200px;
+}
+
+.bottom{
+  background-color: #66BFBF;
+  margin: 0 auto;
+  padding: 50px 0;
+}
+
+
+
+.copyright{
+  font-size: small;
+  padding-top: 25px;
+  color: #EAF6F6;
+
+}
+
+a{
+  margin-right: 20px;
+  color: #11999E;
+}
+
+.phone{
+
+  position: absolute;
+  left: 650px;
+  top: 3420px;
+}
+
+.phone-no{
+  text-decoration: underline;
+  color: #11999E;
+}
